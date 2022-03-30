@@ -1,0 +1,77 @@
+.header{
+    background-color: rgba(165, 42, 42, 0.719);
+    border: 10px solid black;
+    height: 28%;
+    width: 65%;
+    display: flex;
+    justify-content: center;
+}
+.destaque{
+    background-color: white;
+    color: blue;
+    border: 10px solid blue;
+    height: 28%;
+    width: 70%;
+    margin: 40px 40px 40px 40px;
+}
+
+p{
+    font-family: Arial;
+    font-size: 22px;
+    padding: 10px 25px 10px 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.linhaum{
+    width: 65%;
+    height: 15%;
+    border: 15px solid blue;
+    margin-top: 60px;
+    margin-left: 10%;
+}
+
+.linhadois{
+    width: 44%;
+    height: 15%;
+    border: 15px solid purple;
+    margin-left: 20%;
+}
+
+.linhatres{
+    width: 59%;
+    height: 15%;
+    border: 15px solid green;
+    margin-left: 13%;
+}
+
+.linhaquatro{
+    width: 53%;
+    height: 15%;
+    border: 15px solid yellow;
+    margin-left: 16%;
+    margin-bottom: 60px;
+}
+
+.inferiorum{
+    width: 453px;
+    height: 15%;
+    border: 10px solid red;
+    margin-left: 2%;
+    float: left;
+}
+
+.inferiordois{
+    float: right;
+    width: 26%;
+    height: 15%;
+    border: 10px solid rgb(69, 238, 2);
+    margin-right: 18%;    
+}
+
+.inferiortres{
+    float: right;
+    width: 16%;
+    height: 15%;
+    border: 10px solid rgb(0, 139, 132);
+}

@@ -1,0 +1,42 @@
+.divA{
+    background-color: rgb(221, 49, 252);
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.divFilha1{
+    background-color: rgb(38, 0, 255);
+    height: 70%;
+    width: 70%;
+}
+
+p{
+    color: rgba(255, 255, 255, 0.753);
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium',
+     'Arial Narrow', Arial, sans-serif;
+}
+
+span{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(25, 241, 169);
+}
+
+.divB{
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(43, 219, 219);
+    display: flex;
+    justify-content: center;
+}
+
+.divFilhaB{
+    width: 30vw;
+    height: 25%;
+    background-color: rgb(195, 6, 6);
+    display: flex;
+    justify-content: center;
+}
